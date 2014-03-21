@@ -1,0 +1,531 @@
+{
+	"Diary of a Graphics Programmer" : {
+		"author" : "Wolfgang Engel",
+		"site"   : "http://diaryofagraphicsprogrammer.blogspot.com/",
+		"atom"   : "http://diaryofagraphicsprogrammer.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Self Shadow" : {
+		"author" : "Stephen Hill",
+		"site"   : "http://blog.selfshadow.com/",
+		"rss"    : "http://blog.selfshadow.com/feed/",
+		"category" : "people"
+		},
+
+	"CodeItNow" : {
+		"author" : "Rory Drisc",
+		"site"   : "http://www.rorydriscoll.com/",
+		"rss"    : "http://www.rorydriscoll.com/feed/",
+		"category" : "people"
+		},
+
+	"repilogue" : {
+		"author" : "Johan Andersson",
+		"site"   : "http://repi.blogspot.se/",
+		"atom"   : "http://repi.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"markus buretorp" : {
+		"author" : "Markus Buretorp",
+		"site"   : "http://www.rgba.se/",
+		"rss"    : "http://www.rgba.se/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"humus" : {
+		"author" : "Emil Persson",
+		"site"   : "http://www.humus.name/",
+		"rss"    : "http://www.humus.name/rss.xml",
+		"category" : "people"
+		},
+
+	"beautifulpixels" : {
+		"author" : "Vincent Scheib",
+		"site"   : "http://beautifulpixels.blogspot.se/",
+		"atom"   : "http://feeds.feedburner.com/BeautifulPixels",
+		"category" : "people"
+		},
+
+	"Shawn Hargreaves Blog" : {
+		"author" : "Shawn Hargreaves",
+		"site"   : "http://blogs.msdn.com/b/shawnhar/",
+		"rss"    : "http://blogs.msdn.com/b/shawnhar/rss.aspx",
+		"category" : "people"
+		},
+
+	"drect to video" : {
+		"author" : "Matt Swoboda",
+		"site"   : "http://directtovideo.wordpress.com/",
+		"rss"    : "http://directtovideo.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"Aras Blog" : {
+		"author" : "Aras Pranckevičius",
+		"site"   : "http://aras-p.info/blog/",
+		"atom"   : "http://aras-p.info/atom.xml",
+		"category" : "people"
+		},
+
+	"Graphic Rants" : {
+		"author" : "Brian Karis",
+		"site"   : "http://graphicrants.blogspot.se/",
+		"atom"   : "http://graphicrants.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Graphics Runner" : {
+		"author" : "Kyle Hayward",
+		"site"   : "http://graphicsrunner.blogspot.se/",
+		"atom"   : "http://graphicsrunner.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"The Instruction Limit" : {
+		"author" : "Renaud Bédard",
+		"site"   : "http://theinstructionlimit.com/",
+		"rss"    : "http://theinstructionlimit.com/feed",
+		"category" : "people"
+		},
+
+	"DEADC0DE" : {
+		"author" : "c0de517e/AngeloPesce",
+		"site"   : "http://c0de517e.blogspot.se/",
+		"atom"   : "http://feeds.feedburner.com/C0de517e",
+		"category" : "people"
+		},
+
+	"Jon Olicks Blog" : {
+		"author" : "Jon Olick",
+		"site"   : "http://www.jonolick.com/",
+		"rss"    : "http://www.jonolick.com/2/feed",
+		"category" : "people"
+		},
+
+	"Deja VU" : {
+		"author" : "Daniel Collin",
+		"site"   : "http://zenicengine.blogspot.se/",
+		"atom"   : "http://zenicengine.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Joost’s Dev Blog" : {
+		"author" : "Joost van Dongen",
+		"site"   : "http://joostdevblog.blogspot.se/",
+		"atom"  : "http://joostdevblog.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Timothy Lottes Blog" : {
+		"author" : "Timothy Lottes",
+		"site"   : "http://timothylottes.blogspot.se/",
+		"atom"   : "http://timothylottes.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Sébastien Lagardes Blog" : {
+		"author" : "Sébastien Lagarde",
+		"site"   : "http://seblagarde.wordpress.com/",
+		"rss"    : "http://seblagarde.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"cbloom rants" : {
+		"author" : "Charles Bloom",
+		"site"   : "http://cbloomrants.blogspot.se/",
+		"atom"   : "http://feeds.feedburner.com/CbloomRants",
+		"category" : "people"
+		},
+
+	"el trastero" : {
+		"author" : "Iñigo Quilez",
+		"site"   : "http://www.iquilezles.org/blog/",
+		"rss"    : "http://www.iquilezles.org/blog/?feed=rss2",
+		"category" : "people"
+		},
+
+	"TojiCode" : {
+		"author" : "Brandon Jones",
+		"site"   : "http://blog.tojicode.com/",
+		"rss"    : "http://blog.tojicode.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Industrial Arithmetic" : {
+		"author" : "Simon Green",
+		"site"   : "http://industrialarithmetic.blogspot.se/",
+		"rss"    : "http://industrialarithmetic.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Light is Beautiful" : {
+		"author" : "Julien Guertault",
+		"site"   : "http://lousodrome.net/blog/light/",
+		"rss"    : "http://feeds.feedburner.com/LightIsBeautiful",
+		"category" : "people"
+		},
+
+	"Miles Macklins Blog" : {
+		"author" : "Miles Macklin",
+		"site"   : "http://blog.mmacklin.com/",
+		"rss"    : "http://blog.mmacklin.com/feed/",
+		"category" : "people"
+		},
+
+	"Stumbling Toward ‘Awesomeness’" : {
+		"author" : "Christopher Evans",
+		"site"   : "http://www.chrisevans3d.com/pub_blog/",
+		"atom"   : "http://www.chrisevans3d.com/pub_blog/?feed=atom",
+		"category" : "people"
+		},
+
+	"Syntopia" : {
+		"author" : "Mikael Hvidtfeldt Christensen",
+		"site"   : "http://blog.hvidtfeldts.net/",
+		"rss"    : "http://blog.hvidtfeldts.net/index.php/feed/",
+		"category" : "people"
+		},
+
+	"The Danger Zone" : {
+		"author" : "Matt Pettineo",
+		"site"   : "http://mynameismjp.wordpress.com/",
+		"rss"    : "http://mynameismjp.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"The ryg Blog" : {
+		"author" : "Fabian Giesen",
+		"site"   : "http://fgiesen.wordpress.com/",
+		"rss"    : "http://fgiesen.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"ZigguratVertigo’s Hideout" : {
+		"author" : "Colin Barré-Brisebois",
+		"site"   : "http://colinbarrebrisebois.com/",
+		"rss"    : "http://colinbarrebrisebois.com/feed/",
+		"category" : "people"
+		},
+
+	"I’m doing it wrong" : {
+		"author" : "Tom Madams",
+		"site"   : "http://imdoingitwrong.wordpress.com/",
+		"rss"    : "http://imdoingitwrong.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"Jorge Jimenez Real-Time Graphics R&D" : {
+		"author" : "Jorge Jimenez",
+		"site"   : "http://www.iryoku.com/blog",
+		"rss"    : "http://www.iryoku.com/feed",
+		"category" : "people"
+		},
+
+	"Mikkelsen and 3D Graphics" : {
+		"author" : "Morten S. Mikkelsen",
+		"site"   : "http://mmikkelsen3d.blogspot.se/",
+		"rss"    : "http://mmikkelsen3d.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Nathan Reeds Blog" : {
+		"author" : "Nathan's Reed",
+		"site"   : "http://www.reedbeta.com/blog/",
+		"rss"    : "http://www.reedbeta.com/blog/feed/",
+		"category" : "people"
+		},
+
+	"Sebh’s Blog" : {
+		"author" : "Sébastien Hillaire",
+		"site"   : "http://sebh-blog.blogspot.se/",
+		"atom"   : "http://sebh-blog.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Steve McAuley Computer graphics in the real world" : {
+		"author" : "Steve McAuley",
+		"site"   : "http://blog.stevemcauley.com/",
+		"rss"    : "http://blog.stevemcauley.com/feed/",
+		"category" : "people"
+		},
+
+	"Rastergrid Blogosphere" : {
+		"author" : "Daniel Rákos",
+		"site"   : "http://rastergrid.com/blog/",
+		"rss"    : "http://rastergrid.com/blog/feed/",
+		"category" : "people"
+		},
+
+	"Martin Codes" : {
+		"author" : "Martin Ecker",
+		"site"   : "http://martinecker.com/martincodes/",
+		"rss"    : "http://feeds.feedburner.com/MartinCodes",
+		"category" : "people"
+		},
+
+	"spuify" : {
+		"author" : "Steven Tovey",
+		"site"   : "http://www.spuify.co.uk/",
+		"rss"    : "http://www.spuify.co.uk/?feed=rss2",
+		"category" : "people"
+		},
+
+	"Interplay of Light" : {
+		"author" : "Kostas Anagnostou",
+		"site"   : "http://interplayoflight.wordpress.com/",
+		"rss"    : "http://interplayoflight.wordpress.com/feed/",
+		"category" : "people"
+		},
+
+	"Solid Angle" : {
+		"author" : "Steve Anichini",
+		"site"   : "http://solid-angle.blogspot.se/",
+		"atom"   : "http://solid-angle.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Simon’s Graphics Blog" : {
+		"author" : "Simon Brown",
+		"site"   : "http://www.sjbrown.co.uk/",
+		"rss"    : "http://www.sjbrown.co.uk/feed/",
+		"category" : "people"
+		},
+
+	"Simon’s Tech Blog" : {
+		"author" : "Simon Yeung",
+		"site"   : "http://simonstechblog.blogspot.co.uk/",
+		"atom"   : "http://simonstechblog.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Blind Renderer" : {
+		"author" : "Pope Kim",
+		"site"   : "http://www.popekim.com/",
+		"atom"   : "http://feeds.feedburner.com/BlindRenderer",
+		"category" : "people"
+		},
+
+	"TomF’s Tech Blog" : {
+		"author" : "Tom Forsyth",
+		"site"   : "http://home.comcast.net/~tom_forsyth/blog.wiki.html",
+		"rss"    : "http://home.comcast.net/~tom_forsyth/blog.wiki.xml",
+		"category" : "people"
+		},
+
+	"Lia-Sae’s Blog" : {
+		"author" : "Amandine Coget",
+		"site"   : "http://lia-sae.net/en",
+		"rss"    : "http://lia-sae.net/en/feed/",
+		"category" : "people"
+		},
+
+	"rgba32" : {
+		"author" : "Mark Lee",
+		"site"   : "http://rgba32.blogspot.com/",
+		"atom"   : "http://rgba32.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Yosoygames" : {
+		"author" : "Matías N. Goldberg",
+		"site"   : "http://yosoygames.com.ar/wp/",
+		"rss"    : "http://yosoygames.com.ar/wp/feed/",
+		"category" : "people"
+		},
+
+	"Icare3D Blog" : {
+		"author" : "Cyril Crassin",
+		"site"   : "http://blog.icare3d.org/",
+		"rss"    : "http://blog.icare3d.org/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"John Ratcliff’s Code Suppository" : {
+		"author" : "John Ratcliff",
+		"site"   : "http://codesuppository.blogspot.se/",
+		"rss"    : "http://codesuppository.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Ramblings in Valve Time" : {
+		"author" : "Michael Abrash",
+		"site"   : "http://blogs.valvesoftware.com/abrash/",
+		"rss"    : "http://blogs.valvesoftware.com/feed/?cat=3",
+		"category" : "people"
+		},
+
+	"Procedural World" : {
+		"author" : "Miguel Cepero",
+		"site"   : "http://procworld.blogspot.se/",
+		"atom"   : "http://feeds.feedburner.com/ProceduralWorld",
+		"category" : "people"
+		},
+
+	"Ray Tracey’s blog" : {
+		"author" : "Sam Lapere",
+		"site"   : "http://raytracey.blogspot.ch/",
+		"atom"   : "http://raytracey.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"I-Novae Studios" : {
+		"author" : "Keith Newton",
+		"site"   : "http://inovaekeith.blogspot.se/",
+		"rss"    : "http://inovaekeith.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+	"Pixelnerve" : {
+		"author" : "Victor Martins",
+		"site"   : "http://www.pixelnerve.com/v/",
+		"rss"    : "http://www.pixelnerve.com/v/feed/",
+		"category" : "people"
+		},
+
+	"John White 3D" : {
+		"author" : "John White",
+		"site"   : "http://johnwhite3d.blogspot.com/",
+		"atom"    : "http://johnwhite3d.blogspot.com/feeds/posts/default",
+		"category" : "people"
+		},
+
+
+	"bitsquid: development blog" : {
+		"author" : "bitsquid",
+		"site"   : "http://bitsquid.blogspot.com",
+		"atom"    : "http://bitsquid.blogspot.com/feeds/posts/default",
+		"category" : "companies"
+		},
+
+	"Unigine crew" : {
+		"author" : "Unigine",
+		"site"   : "http://unigine.blogspot.com",
+		"atom"    : "http://unigine.blogspot.com/feeds/posts/default",
+		"category" : "companies"
+		},
+
+	"Molecular Musings" : {
+		"author" : "Stefan Reinalter",
+		"site"   : "http://molecularmusings.wordpress.com/",
+		"rss"    : "http://molecularmusings.wordpress.com/feed/",
+		"category" : "companies"
+		},
+		
+	"nVidia Developer" : {
+		"author" : "nVidia",
+		"site"   : "https://developer.nvidia.com",
+		"rss"    : "https://developer.nvidia.com/blog/feed/1",
+		"category" : "companies"
+		},
+		
+
+
+	"Real-Time Rendering Book Blog" : {
+		"author" : "Real-Time Rendering Blog",
+		"site"   : "http://www.realtimerendering.com/blog/",
+		"rss"    : "http://www.realtimerendering.com/blog/feed/",
+		"category" : "other"
+		},
+		
+	"Virtual Globe and Terrain Rendering" : {
+		"author" : "Virtual Globe and Terrain Rendering",
+		"site"   : "http://blog.virtualglobebook.com/",
+		"atom"   : "http://blog.virtualglobebook.com/feeds/posts/default",
+		"category" : "other"
+		},
+		
+	"Casual Effects" : {
+		"author" : "Morgan McGuire",
+		"site"   : "http://casual-effects.blogspot.com",
+		"atom"   : "http://casual-effects.blogspot.com/feeds/posts/default",
+		"category" : "other"
+		},
+		
+	"Game Engine Architecture" : {
+		"author" : "Jason Gregory",
+		"site"   : "http://gameenginebook.blogspot.com",
+		"atom"   : "http://gameenginebook.blogspot.com/feeds/posts/default",
+		"category" : "other"
+		},
+
+	"Voxelium" : {
+		"author" : "Attila Tamás Áfra",
+		"site"   : "http://voxelium.wordpress.com/",
+		"rss"    : "http://voxelium.wordpress.com/feed/",
+		"category" : "other"
+		},
+
+	"Pete Shirley's Graphics Blog" : {
+		"author" : "Pete Shirley",
+		"site"   : "http://psgraphics.blogspot.com",
+		"atom"   : "http://psgraphics.blogspot.com/feeds/posts/default",
+		"category" : "other"
+		},
+
+	"#AltDevBlog" : {
+		"author" : "#AltDevBlog",
+		"site"   : "http://www.altdevblogaday.com/",
+		"rss"    : "http://altdevblogaday.com/feed",
+		"category" : "other"
+		},
+
+	"Scali’s OpenBlog™" : {
+		"author" : "Scali Bohemiq",
+		"site"   : "http://scalibq.wordpress.com/",
+		"rss"    : "http://scalibq.wordpress.com/feed/",
+		"category" : "other"
+		},
+
+	"john-chapman-graphics" : {
+		"author" : "John Chapman",
+		"site"   : "http://john-chapman-graphics.blogspot.com",
+		"atom"   : "http://john-chapman-graphics.blogspot.com/feeds/posts/default",
+		"category" : "other"
+		},
+
+	"Fabien Sanglard's website" : {
+		"author" : "Fabien Sanglard",
+		"site"   : "http://fabiensanglard.net/",
+		"rss"    : "http://fabiensanglard.net/rss.xml",
+		"category" : "other"
+		},
+
+	
+
+	"The Witness Development Blog" : {
+		"author" : "The Witness Developers",
+		"site"   : "http://the-witness.net/news/",
+		"rss"    : "http://the-witness.net/news/feed/",
+		"category" : "indie"
+		},
+
+	"Wolfire Blog" : {
+		"author" : "Wolfire Developers",
+		"site"   : "http://blog.wolfire.com/",
+		"atom"   : "http://feeds.wolfire.com/WolfireGames",
+		"category" : "indie"
+		},
+
+	"Gamedev Coder Diary" : {
+		"author" : "Maciej Sawitus",
+		"site"   : "http://gamedevcoder.wordpress.com/",
+		"rss"    : "http://gamedevcoder.wordpress.com/feed/",
+		"category" : "indie"
+		},
+
+	"COPYPASTEPIXEL" : {
+		"author" : "Stefan Kamoda",
+		"site"   : "http://copypastepixel.blogspot.com",
+		"atom"   : "http://copypastepixel.blogspot.com/feeds/posts/default",
+		"category" : "indie"
+		},
+
+	"Sanders' blog" : {
+		"author" : "Sander van Rossen",
+		"site"   : "http://sandervanrossen.blogspot.com",
+		"rss"    : "http://sandervanrossen.blogspot.com/feeds/posts/default?alt=rss",
+		"category" : "indie"
+		}
+}
