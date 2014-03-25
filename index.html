@@ -1,0 +1,31 @@
+---
+layout: default
+title: cgfeeds
+---
+<h1>cgfeed</h1>
+Crowdsourced curated computer graphics and rendering feed. The posts on this website comes from a collection of rendering related blogs and are curated by [@andsve, @jhonnygoransson, insert more names here..]. You can also follow [TBD] on Twitter for updates when entries are added.
+
+
+<strong>This is a work in progress, please don't reference this website as of yet. Report any errors to <em>cgfeed@svenandersson.se</em></strong>
+
+
+<h3>Feed data</h3>
+You can get the raw feed data in a couple of different formats. We also have our own feed with the filtered output.
+<strong>Raw feed list:</strong> <a href="/data/feeds.json">JSON</a>, <a href="/data/feeds.xml">OPML</a>, <a href="/data/feeds.html">HTML</a>.
+<strong>Filtered output RSS:</strong> <a href="/posts.rss">RSS</a>, <a href="/posts.json">JSON</a>.
+
+<h3>Help</h3>
+This website is hosted on <a href="https://github.com/cgfeed/cgfeed.github.io">GitHub</a>. Please file an <a href="https://github.com/cgfeed/cgfeed.github.io/issues/new">issue</a> if you find any errors, or have a blog that you feel should be added to the feed list. Want to help curate and filter the feed? Ping <a href="https://twitter.com/andsve">@andsve</a> on Twitter.
+
+<h3>TODO</h3>
+<ul>
+	<li>Fix: cgfeed-bot should automatically deploy to GitHub.</li>
+	<li>Fix: Re-layout and pageinate the post list.</li>
+</ul>
+
+<h3>Posts</h3>
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.link }}"><span class="post_date">{{ post.timestamp | date: "%Y-%m-%d" }}</span> <strong>{{ post.title }}</strong></a> <a href="{{ post.blogurl }}">{{ post.blog }}</a></li>
+{% endfor %}
+</ul>

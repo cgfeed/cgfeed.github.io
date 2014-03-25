@@ -1,449 +1,451 @@
 - title: "Diary of a Graphics Programmer"
-  author:  Wolfgang Engel
-  site:    http://diaryofagraphicsprogrammer.blogspot.com/
-  feed:    http://diaryofagraphicsprogrammer.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Wolfgang Engel"
+  site:    "http://diaryofagraphicsprogrammer.blogspot.com/"
+  feed:    "http://diaryofagraphicsprogrammer.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Self Shadow"
-  author:  Stephen Hill
-  site:    http://blog.selfshadow.com/
-  feed:    http://blog.selfshadow.com/feed/
-  category:  people
+  author:  "Stephen Hill"
+  site:    "http://blog.selfshadow.com/"
+  feed:    "http://blog.selfshadow.com/feed/"
+  category:  "people"
   
 - title: "CodeItNow"
-  author:  Rory Drisc
-  site:    http://www.rorydriscoll.com/
-  feed:    http://www.rorydriscoll.com/feed/
-  category:  people
+  author:  "Rory Drisc"
+  site:    "http://www.rorydriscoll.com/"
+  feed:    "http://www.rorydriscoll.com/feed/"
+  category:  "people"
   
 - title: "repilogue"
-  author:  Johan Andersson
-  site:    http://repi.blogspot.se/
-  feed:    http://repi.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Johan Andersson"
+  site:    "http://repi.blogspot.se/"
+  feed:    "http://repi.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "markus buretorp"
-  author:  Markus Buretorp
-  site:    http://www.rgba.se/
-  feed:    http://www.rgba.se/feeds/posts/default
-  category:  people
+  author:  "Markus Buretorp"
+  site:    "http://www.rgba.se/"
+  feed:    "http://www.rgba.se/feeds/posts/default"
+  category:  "people"
   
 - title: "humus"
-  author:  Emil Persson
-  site:    http://www.humus.name/
-  feed:    http://www.humus.name/rss.xml
-  category:  people
+  author:  "Emil Persson"
+  site:    "http://www.humus.name/"
+  feed:    "http://www.humus.name/rss.xml"
+  category:  "people"
   
 - title: "beautifulpixels"
-  author:  Vincent Scheib
-  site:    http://beautifulpixels.blogspot.se/
-  feed:    http://feeds.feedburner.com/BeautifulPixels
-  category:  people
+  author:  "Vincent Scheib"
+  site:    "http://beautifulpixels.blogspot.se/"
+  feed:    "http://feeds.feedburner.com/BeautifulPixels"
+  category:  "people"
   
 - title: "Shawn Hargreaves Blog"
-  author:  Shawn Hargreaves
-  site:    http://blogs.msdn.com/b/shawnhar/
-  feed:    http://blogs.msdn.com/b/shawnhar/rss.aspx
-  category:  people
+  author:  "Shawn Hargreaves"
+  site:    "http://blogs.msdn.com/b/shawnhar/"
+  feed:    "http://blogs.msdn.com/b/shawnhar/rss.aspx"
+  category:  "people"
   
 - title: "drect to video"
-  author:  Matt Swoboda
-  site:    http://directtovideo.wordpress.com/
-  feed:    http://directtovideo.wordpress.com/feed/
-  category:  people
+  author:  "Matt Swoboda"
+  site:    "http://directtovideo.wordpress.com/"
+  feed:    "http://directtovideo.wordpress.com/feed/"
+  category:  "people"
   
 - title: "Aras Blog"
-  author:  Aras Pranckevičius
-  site:    http://aras-p.info/blog/
-  feed:    http://aras-p.info/atom.xml
-  category:  people
+  author:  "Aras Pranckevičius"
+  site:    "http://aras-p.info/blog/"
+  feed:    "http://aras-p.info/atom.xml"
+  category:  "people"
   
 - title: "Graphic Rants"
-  author:  Brian Karis
-  site:    http://graphicrants.blogspot.se/
-  feed:    http://graphicrants.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Brian Karis"
+  site:    "http://graphicrants.blogspot.se/"
+  feed:    "http://graphicrants.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Graphics Runner"
-  author:  Kyle Hayward
-  site:    http://graphicsrunner.blogspot.se/
-  feed:    http://graphicsrunner.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Kyle Hayward"
+  site:    "http://graphicsrunner.blogspot.se/"
+  feed:    "http://graphicsrunner.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "The Instruction Limit"
-  author:  Renaud Bédard
-  site:    http://theinstructionlimit.com/
-  feed:    http://theinstructionlimit.com/feed
-  category:  people
+  author:  "Renaud Bédard"
+  site:    "http://theinstructionlimit.com/"
+  feed:    "http://theinstructionlimit.com/feed"
+  category:  "people"
   
 - title: "DEADC0DE"
-  author:  c0de517e/AngeloPesce
-  site:    http://c0de517e.blogspot.se/
-  feed:    http://feeds.feedburner.com/C0de517e
-  category:  people
+  author:  "c0de517e/AngeloPesce"
+  site:    "http://c0de517e.blogspot.se/"
+  feed:    "http://feeds.feedburner.com/C0de517e"
+  category:  "people"
   
 - title: "Jon Olicks Blog"
-  author:  Jon Olick
-  site:    http://www.jonolick.com/
-  feed:    http://www.jonolick.com/2/feed
-  category:  people
+  author:  "Jon Olick"
+  site:    "http://www.jonolick.com/"
+  feed:    "http://www.jonolick.com/2/feed"
+  category:  "people"
   
 - title: "Deja VU"
-  author:  Daniel Collin
-  site:    http://zenicengine.blogspot.se/
-  feed:    http://zenicengine.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Daniel Collin"
+  site:    "http://zenicengine.blogspot.se/"
+  feed:    "http://zenicengine.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Joost’s Dev Blog"
-  author:  Joost van Dongen
-  site:    http://joostdevblog.blogspot.se/
-  feed:   http://joostdevblog.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Joost van Dongen"
+  site:    "http://joostdevblog.blogspot.se/"
+  feed:   "http://joostdevblog.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Timothy Lottes Blog"
-  author:  Timothy Lottes
-  site:    http://timothylottes.blogspot.se/
-  feed:    http://timothylottes.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Timothy Lottes"
+  site:    "http://timothylottes.blogspot.se/"
+  feed:    "http://timothylottes.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Sébastien Lagardes Blog"
-  author:  Sébastien Lagarde
-  site:    http://seblagarde.wordpress.com/
-  feed:    http://seblagarde.wordpress.com/feed/
-  category:  people
+  author:  "Sébastien Lagarde"
+  site:    "http://seblagarde.wordpress.com/"
+  feed:    "http://seblagarde.wordpress.com/feed/"
+  category:  "people"
   
 - title: "cbloom rants"
-  author:  Charles Bloom
-  site:    http://cbloomrants.blogspot.se/
-  feed:    http://feeds.feedburner.com/CbloomRants
-  category:  people
+  author:  "Charles Bloom"
+  site:    "http://cbloomrants.blogspot.se/"
+  feed:    "http://feeds.feedburner.com/CbloomRants"
+  category:  "people"
   
 - title: "el trastero"
-  author:  Iñigo Quilez
-  site:    http://www.iquilezles.org/blog/
-  feed:    http://www.iquilezles.org/blog/?feed=rss2
-  category:  people
+  author:  "Iñigo Quilez"
+  site:    "http://www.iquilezles.org/blog/"
+  feed:    "http://www.iquilezles.org/blog/?feed=rss2"
+  category:  "people"
   
 - title: "TojiCode"
-  author:  Brandon Jones
-  site:    http://blog.tojicode.com/
-  feed:    http://blog.tojicode.com/feeds/posts/default
-  category:  people
+  author:  "Brandon Jones"
+  site:    "http://blog.tojicode.com/"
+  feed:    "http://blog.tojicode.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Industrial Arithmetic"
-  author:  Simon Green
-  site:    http://industrialarithmetic.blogspot.se/
-  feed:    http://industrialarithmetic.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Simon Green"
+  site:    "http://industrialarithmetic.blogspot.se/"
+  feed:    "http://industrialarithmetic.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Light is Beautiful"
-  author:  Julien Guertault
-  site:    http://lousodrome.net/blog/light/
-  feed:    http://feeds.feedburner.com/LightIsBeautiful
-  category:  people
+  author:  "Julien Guertault"
+  site:    "http://lousodrome.net/blog/light/"
+  feed:    "http://feeds.feedburner.com/LightIsBeautiful"
+  category:  "people"
   
 - title: "Miles Macklins Blog"
-  author:  Miles Macklin
-  site:    http://blog.mmacklin.com/
-  feed:    http://blog.mmacklin.com/feed/
-  category:  people
+  author:  "Miles Macklin"
+  site:    "http://blog.mmacklin.com/"
+  feed:    "http://blog.mmacklin.com/feed/"
+  category:  "people"
   
 - title: "Stumbling Toward ‘Awesomeness’"
-  author:  Christopher Evans
-  site:    http://www.chrisevans3d.com/pub_blog/
-  feed:    http://www.chrisevans3d.com/pub_blog/?feed=atom
-  category:  people
+  author:  "Christopher Evans"
+  site:    "http://www.chrisevans3d.com/pub_blog/"
+  feed:    "http://www.chrisevans3d.com/pub_blog/?feed=atom"
+  category:  "people"
   
 - title: "Syntopia"
-  author:  Mikael Hvidtfeldt Christensen
-  site:    http://blog.hvidtfeldts.net/
-  feed:    http://blog.hvidtfeldts.net/index.php/feed/
-  category:  people
+  author:  "Mikael Hvidtfeldt Christensen"
+  site:    "http://blog.hvidtfeldts.net/"
+  feed:    "http://blog.hvidtfeldts.net/index.php/feed/"
+  category:  "people"
   
 - title: "The Danger Zone"
-  author:  Matt Pettineo
-  site:    http://mynameismjp.wordpress.com/
-  feed:    http://mynameismjp.wordpress.com/feed/
-  category:  people
+  author:  "Matt Pettineo"
+  site:    "http://mynameismjp.wordpress.com/"
+  feed:    "http://mynameismjp.wordpress.com/feed/"
+  category:  "people"
   
 - title: "The ryg Blog"
-  author:  Fabian Giesen
-  site:    http://fgiesen.wordpress.com/
-  feed:    http://fgiesen.wordpress.com/feed/
-  category:  people
+  author:  "Fabian Giesen"
+  site:    "http://fgiesen.wordpress.com/"
+  feed:    "http://fgiesen.wordpress.com/feed/"
+  category:  "people"
   
 - title: "ZigguratVertigo’s Hideout"
-  author:  Colin Barré-Brisebois
-  site:    http://colinbarrebrisebois.com/
-  feed:    http://colinbarrebrisebois.com/feed/
-  category:  people
+  author:  "Colin Barré-Brisebois"
+  site:    "http://colinbarrebrisebois.com/"
+  feed:    "http://colinbarrebrisebois.com/feed/"
+  category:  "people"
   
-- title: "I’m doing it wrong"
-  author:  Tom Madams
-  site:    http://imdoingitwrong.wordpress.com/
-  feed:    http://imdoingitwrong.wordpress.com/feed/
-  category:  people
+- title: "I'm doing it wrong"
+  author:  "Tom Madams"
+  site:    "http://imdoingitwrong.wordpress.com/"
+  feed:    "http://imdoingitwrong.wordpress.com/feed/"
+  category:  "people"
   
-- title: "Jorge Jimenez Real-Time Graphics R&D"
-  author:  Jorge Jimenez
-  site:    http://www.iryoku.com/blog
-  feed:    http://www.iryoku.com/feed
-  category:  people
+- title: "Jorge Jimenez Real-Time Graphics"
+  author:  "Jorge Jimenez"
+  site:    "http://www.iryoku.com/blog"
+  feed:    "http://www.iryoku.com/feed"
+  category:  "people"
   
 - title: "Mikkelsen and 3D Graphics"
-  author:  Morten S. Mikkelsen
-  site:    http://mmikkelsen3d.blogspot.se/
-  feed:    http://mmikkelsen3d.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Morten S. Mikkelsen"
+  site:    "http://mmikkelsen3d.blogspot.se/"
+  feed:    "http://mmikkelsen3d.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Nathan Reeds Blog"
-  author:  Nathan's Reed
-  site:    http://www.reedbeta.com/blog/
-  feed:    http://www.reedbeta.com/blog/feed/
-  category:  people
+  author:  "Nathan's Reed"
+  site:    "http://www.reedbeta.com/blog/"
+  feed:    "http://www.reedbeta.com/blog/feed/"
+  category:  "people"
   
 - title: "Sebh’s Blog"
-  author:  Sébastien Hillaire
-  site:    http://sebh-blog.blogspot.se/
-  feed:    http://sebh-blog.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Sébastien Hillaire"
+  site:    "http://sebh-blog.blogspot.se/"
+  feed:    "http://sebh-blog.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Steve McAuley Computer graphics in the real world"
-  author:  Steve McAuley
-  site:    http://blog.stevemcauley.com/
-  feed:    http://blog.stevemcauley.com/feed/
-  category:  people
+  author:  "Steve McAuley"
+  site:    "http://blog.stevemcauley.com/"
+  feed:    "http://blog.stevemcauley.com/feed/"
+  category:  "people"
   
 - title: "Rastergrid Blogosphere"
-  author:  Daniel Rákos
-  site:    http://rastergrid.com/blog/
-  feed:    http://rastergrid.com/blog/feed/
-  category:  people
+  author:  "Daniel Rákos"
+  site:    "http://rastergrid.com/blog/"
+  feed:    "http://rastergrid.com/blog/feed/"
+  category:  "people"
   
 - title: "Martin Codes"
-  author:  Martin Ecker
-  site:    http://martinecker.com/martincodes/
-  feed:    http://feeds.feedburner.com/MartinCodes
-  category:  people
+  author:  "Martin Ecker"
+  site:    "http://martinecker.com/martincodes/"
+  feed:    "http://feeds.feedburner.com/MartinCodes"
+  category:  "people"
   
 - title: "spuify"
-  author:  Steven Tovey
-  site:    http://www.spuify.co.uk/
-  feed:    http://www.spuify.co.uk/?feed=rss2
-  category:  people
+  author:  "Steven Tovey"
+  site:    "http://www.spuify.co.uk/"
+  feed:    "http://www.spuify.co.uk/?feed=rss2"
+  category:  "people"
   
 - title: "Interplay of Light"
-  author:  Kostas Anagnostou
-  site:    http://interplayoflight.wordpress.com/
-  feed:    http://interplayoflight.wordpress.com/feed/
-  category:  people
+  author:  "Kostas Anagnostou"
+  site:    "http://interplayoflight.wordpress.com/"
+  feed:    "http://interplayoflight.wordpress.com/feed/"
+  category:  "people"
   
 - title: "Solid Angle"
-  author:  Steve Anichini
-  site:    http://solid-angle.blogspot.se/
-  feed:    http://solid-angle.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Steve Anichini"
+  site:    "http://solid-angle.blogspot.se/"
+  feed:    "http://solid-angle.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Simon’s Graphics Blog"
-  author:  Simon Brown
-  site:    http://www.sjbrown.co.uk/
-  feed:    http://www.sjbrown.co.uk/feed/
-  category:  people
+  author:  "Simon Brown"
+  site:    "http://www.sjbrown.co.uk/"
+  feed:    "http://www.sjbrown.co.uk/feed/"
+  category:  "people"
   
 - title: "Simon’s Tech Blog"
-  author:  Simon Yeung
-  site:    http://simonstechblog.blogspot.co.uk/
-  feed:    http://simonstechblog.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Simon Yeung"
+  site:    "http://simonstechblog.blogspot.co.uk/"
+  feed:    "http://simonstechblog.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Blind Renderer"
-  author:  Pope Kim
-  site:    http://www.popekim.com/
-  feed:    http://feeds.feedburner.com/BlindRenderer
-  category:  people
+  author:  "Pope Kim"
+  site:    "http://www.popekim.com/"
+  feed:    "http://feeds.feedburner.com/BlindRenderer"
+  category:  "people"
   
 - title: "TomF’s Tech Blog"
-  author:  Tom Forsyth
-  site:    http://home.comcast.net/~tom_forsyth/blog.wiki.html
-  feed:    http://home.comcast.net/~tom_forsyth/blog.wiki.xml
-  category:  people
+  author:  "Tom Forsyth"
+  site:    "http://home.comcast.net/~tom_forsyth/blog.wiki.html"
+  feed:    "http://home.comcast.net/~tom_forsyth/blog.wiki.xml"
+  category:  "people"
   
 - title: "Lia-Sae’s Blog"
-  author:  Amandine Coget
-  site:    http://lia-sae.net/en
-  feed:    http://lia-sae.net/en/feed/
-  category:  people
+  author:  "Amandine Coget"
+  site:    "http://lia-sae.net/en"
+  feed:    "http://lia-sae.net/en/feed/"
+  category:  "people"
   
 - title: "rgba32"
-  author:  Mark Lee
-  site:    http://rgba32.blogspot.com/
-  feed:    http://rgba32.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Mark Lee"
+  site:    "http://rgba32.blogspot.com/"
+  feed:    "http://rgba32.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Yosoygames"
-  author:  Matías N. Goldberg
-  site:    http://yosoygames.com.ar/wp/
-  feed:    http://yosoygames.com.ar/wp/feed/
-  category:  people
+  author:  "Matías N. Goldberg"
+  site:    "http://yosoygames.com.ar/wp/"
+  feed:    "http://yosoygames.com.ar/wp/feed/"
+  category:  "people"
   
 - title: "Icare3D Blog"
-  author:  Cyril Crassin
-  site:    http://blog.icare3d.org/
-  feed:    http://blog.icare3d.org/feeds/posts/default
-  category:  people
+  author:  "Cyril Crassin"
+  site:    "http://blog.icare3d.org/"
+  feed:    "http://blog.icare3d.org/feeds/posts/default"
+  category:  "people"
   
 - title: "John Ratcliff’s Code Suppository"
-  author:  John Ratcliff
-  site:    http://codesuppository.blogspot.se/
-  feed:    http://codesuppository.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "John Ratcliff"
+  site:    "http://codesuppository.blogspot.se/"
+  feed:    "http://codesuppository.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Ramblings in Valve Time"
-  author:  Michael Abrash
-  site:    http://blogs.valvesoftware.com/abrash/
-  feed:    http://blogs.valvesoftware.com/feed/?cat=3
-  category:  people
+  author:  "Michael Abrash"
+  site:    "http://blogs.valvesoftware.com/abrash/"
+  feed:    "http://blogs.valvesoftware.com/feed/?cat=3"
+  category:  "people"
   
 - title: "Procedural World"
-  author:  Miguel Cepero
-  site:    http://procworld.blogspot.se/
-  feed:    http://feeds.feedburner.com/ProceduralWorld
-  category:  people
+  author:  "Miguel Cepero"
+  site:    "http://procworld.blogspot.se/"
+  feed:    "http://feeds.feedburner.com/ProceduralWorld"
+  category:  "people"
   
 - title: "Ray Tracey’s blog"
-  author:  Sam Lapere
-  site:    http://raytracey.blogspot.ch/
-  feed:    http://raytracey.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Sam Lapere"
+  site:    "http://raytracey.blogspot.ch/"
+  feed:    "http://raytracey.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "I-Novae Studios"
-  author:  Keith Newton
-  site:    http://inovaekeith.blogspot.se/
-  feed:    http://inovaekeith.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "Keith Newton"
+  site:    "http://inovaekeith.blogspot.se/"
+  feed:    "http://inovaekeith.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "Pixelnerve"
-  author:  Victor Martins
-  site:    http://www.pixelnerve.com/v/
-  feed:    http://www.pixelnerve.com/v/feed/
-  category:  people
+  author:  "Victor Martins"
+  site:    "http://www.pixelnerve.com/v/"
+  feed:    "http://www.pixelnerve.com/v/feed/"
+  category:  "people"
   
 - title: "John White 3D"
-  author:  John White
-  site:    http://johnwhite3d.blogspot.com/
-  feed:    http://johnwhite3d.blogspot.com/feeds/posts/default
-  category:  people
+  author:  "John White"
+  site:    "http://johnwhite3d.blogspot.com/"
+  feed:    "http://johnwhite3d.blogspot.com/feeds/posts/default"
+  category:  "people"
   
 - title: "bitsquid development blog"
-  author:  bitsquid
-  site:    http://bitsquid.blogspot.com
-  feed:    http://bitsquid.blogspot.com/feeds/posts/default
-  category:  companies
+  author:  "bitsquid"
+  site:    "http://bitsquid.blogspot.com"
+  feed:    "http://bitsquid.blogspot.com/feeds/posts/default"
+  category:  "companies"
   
 - title: "Unigine crew"
-  author:  Unigine
-  site:    http://unigine.blogspot.com
-  feed:    http://unigine.blogspot.com/feeds/posts/default
-  category:  companies
+  author:  "Unigine"
+  site:    "http://unigine.blogspot.com"
+  feed:    "http://unigine.blogspot.com/feeds/posts/default"
+  category:  "companies"
   
 - title: "Molecular Musings"
-  author:  Stefan Reinalter
-  site:    http://molecularmusings.wordpress.com/
-  feed:    http://molecularmusings.wordpress.com/feed/
-  category:  companies
-  
-- title: "nVidia Developer"
-  author:  nVidia
-  site:    https://developer.nvidia.com
-  feed:    https://developer.nvidia.com/blog/feed/1
-  category:  companies
+  author:  "Stefan Reinalter"
+  site:    "http://molecularmusings.wordpress.com/"
+  feed:    "http://molecularmusings.wordpress.com/feed/"
+  category:  "companies"
+ 
+# nVidia Dev Blog reports wrong publish dates, uncomment when this is fixed 
+#- title: "nVidia Developer"
+#  author:  "nVidia"
+#  site:    "https://developer.nvidia.com"
+#  feed:    "https://developer.nvidia.com/blog/feed/1"
+#  category:  "companies"
   
 - title: "Real-Time Rendering Book Blog"
-  author:  Real-Time Rendering Blog
-  site:    http://www.realtimerendering.com/blog/
-  feed:    http://www.realtimerendering.com/blog/feed/
-  category:  other
+  author:  "Real-Time Rendering Blog"
+  site:    "http://www.realtimerendering.com/blog/"
+  feed:    "http://www.realtimerendering.com/blog/feed/"
+  category:  "other"
   
 - title: "Virtual Globe and Terrain Rendering"
-  author:  Virtual Globe and Terrain Rendering
-  site:    http://blog.virtualglobebook.com/
-  feed:    http://blog.virtualglobebook.com/feeds/posts/default
-  category:  other
+  author:  "Virtual Globe and Terrain Rendering"
+  site:    "http://blog.virtualglobebook.com/"
+  feed:    "http://blog.virtualglobebook.com/feeds/posts/default"
+  category:  "other"
   
 - title: "Casual Effects"
-  author:  Morgan McGuire
-  site:    http://casual-effects.blogspot.com
-  feed:    http://casual-effects.blogspot.com/feeds/posts/default
-  category:  other
+  author:  "Morgan McGuire"
+  site:    "http://casual-effects.blogspot.com"
+  feed:    "http://casual-effects.blogspot.com/feeds/posts/default"
+  category:  "other"
   
 - title: "Game Engine Architecture"
-  author:  Jason Gregory
-  site:    http://gameenginebook.blogspot.com
-  feed:    http://gameenginebook.blogspot.com/feeds/posts/default
-  category:  other
+  author:  "Jason Gregory"
+  site:    "http://gameenginebook.blogspot.com"
+  feed:    "http://gameenginebook.blogspot.com/feeds/posts/default"
+  category:  "other"
   
 - title: "Voxelium"
-  author:  Attila Tamás Áfra
-  site:    http://voxelium.wordpress.com/
-  feed:    http://voxelium.wordpress.com/feed/
-  category:  other
+  author:  "Attila Tamás Áfra"
+  site:    "http://voxelium.wordpress.com/"
+  feed:    "http://voxelium.wordpress.com/feed/"
+  category:  "other"
   
 - title: "Pete Shirley's Graphics Blog"
-  author:  Pete Shirley
-  site:    http://psgraphics.blogspot.com
-  feed:    http://psgraphics.blogspot.com/feeds/posts/default
-  category:  other
-  
-- title: "#AltDevBlog"
-  author:  #AltDevBlog
-  site:    http://www.altdevblogaday.com/
-  feed:    http://altdevblogaday.com/feed
-  category:  other
+  author:  "Pete Shirley"
+  site:    "http://psgraphics.blogspot.com"
+  feed:    "http://psgraphics.blogspot.com/feeds/posts/default"
+  category:  "other"
+
+# AltDevBlog seems to be having troubles with their servers
+#- title: "#AltDevBlog"
+#  author:  "#AltDevBlog"
+#  site:    "http://www.altdevblogaday.com/"
+#  feed:    "http://altdevblogaday.com/feed"
+#  category:  "other"
   
 - title: "Scali’s OpenBlog™"
-  author:  Scali Bohemiq
-  site:    http://scalibq.wordpress.com/
-  feed:    http://scalibq.wordpress.com/feed/
-  category:  other
+  author:  "Scali Bohemiq"
+  site:    "http://scalibq.wordpress.com/"
+  feed:    "http://scalibq.wordpress.com/feed/"
+  category:  "other"
   
 - title: "john-chapman-graphics"
-  author:  John Chapman
-  site:    http://john-chapman-graphics.blogspot.com
-  feed:    http://john-chapman-graphics.blogspot.com/feeds/posts/default
-  category:  other
+  author:  "John Chapman"
+  site:    "http://john-chapman-graphics.blogspot.com"
+  feed:    "http://john-chapman-graphics.blogspot.com/feeds/posts/default"
+  category:  "other"
   
 - title: "Fabien Sanglard's website"
-  author:  Fabien Sanglard
-  site:    http://fabiensanglard.net/
-  feed:    http://fabiensanglard.net/rss.xml
-  category:  other
+  author:  "Fabien Sanglard"
+  site:    "http://fabiensanglard.net/"
+  feed:    "http://fabiensanglard.net/rss.xml"
+  category:  "other"
   
 - title: "The Witness Development Blog"
-  author:  The Witness Developers
-  site:    http://the-witness.net/news/
-  feed:    http://the-witness.net/news/feed/
-  category:  indie
+  author:  "The Witness Developers"
+  site:    "http://the-witness.net/news/"
+  feed:    "http://the-witness.net/news/feed/"
+  category:  "indie"
   
 - title: "Wolfire Blog"
-  author:  Wolfire Developers
-  site:    http://blog.wolfire.com/
-  feed:    http://feeds.wolfire.com/WolfireGames
-  category:  indie
+  author:  "Wolfire Developers"
+  site:    "http://blog.wolfire.com/"
+  feed:    "http://feeds.wolfire.com/WolfireGames"
+  category:  "indie"
   
 - title: "Gamedev Coder Diary"
-  author:  Maciej Sawitus
-  site:    http://gamedevcoder.wordpress.com/
-  feed:    http://gamedevcoder.wordpress.com/feed/
-  category:  indie
+  author:  "Maciej Sawitus"
+  site:    "http://gamedevcoder.wordpress.com/"
+  feed:    "http://gamedevcoder.wordpress.com/feed/"
+  category:  "indie"
   
 - title: "COPYPASTEPIXEL"
-  author:  Stefan Kamoda
-  site:    http://copypastepixel.blogspot.com
-  feed:    http://copypastepixel.blogspot.com/feeds/posts/default
-  category:  indie
+  author:  "Stefan Kamoda"
+  site:    "http://copypastepixel.blogspot.com"
+  feed:    "http://copypastepixel.blogspot.com/feeds/posts/default"
+  category:  "indie"
   
 - title: "Sander's blog"
-  author:  Sander van Rossen
-  site:    http://sandervanrossen.blogspot.com
-  feed:    http://sandervanrossen.blogspot.com/feeds/posts/default?alt=rss
-  category:  indie
+  author:  "Sander van Rossen"
+  site:    "http://sandervanrossen.blogspot.com"
+  feed:    "http://sandervanrossen.blogspot.com/feeds/posts/default?alt=rss"
+  category:  "indie"

@@ -1,0 +1,14 @@
+---
+---
+<opml version="1.1">
+	<head>
+		<title>Real-Time Rendering Feeds</title>
+		<dateCreated>{{ site.time | date_to_xmlschema }}</dateCreated>
+		<dateModified>{{ site.time | date_to_xmlschema }}</dateModified>
+	</head>
+	<body>
+{% for feed in site.data.feeds %}
+		<outline htmlUrl="{{ feed.site }}" text="{{ feed.title }}" title="{{ feed.title }}" type="rss" version="RSS" xmlUrl="{{ feed.feed }}" />
+{% endfor %}
+	</body>
+</opml>

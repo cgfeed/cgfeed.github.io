@@ -1,0 +1,16 @@
+---
+layout: default
+# This file simply outputs a HTML list formatted version of _data/feeds.yml
+---
+<ul>
+{% for feed in site.data.feeds %}
+	<li><strong>{{ feed.title }}</strong>
+		<ul>
+			<li><strong>Author:</strong> {{ feed.author }}</li>
+			<li><strong>Site:</strong> {{ feed.site }}</li>
+			<li><strong>Feed:</strong> {{ feed.feed }}</li>
+			<li><strong>Category:</strong> {{ feed.category }}</li>
+		</ul>
+	</li>
+{% endfor %}
+</ul>

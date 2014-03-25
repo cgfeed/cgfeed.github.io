@@ -7,7 +7,7 @@
 		"author" : "{{ feed.author }}",
 		"site" : "{{ feed.site }}",
 		"feed" : "{{ feed.feed }}",
-		"category" : "{{ feed.category }}",
-	},
+		"category" : "{{ feed.category }}"
+	}{% unless forloop.last %},{% endunless %}
 {% endfor %}
 }
